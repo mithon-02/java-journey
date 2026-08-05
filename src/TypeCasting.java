@@ -25,6 +25,14 @@ public class TypeCasting {
 
         System.out.println(b);
 
+        byte x = 100;
+        byte y = 50;
+        byte z = 20;
+
+        int result = x * y / z;
+
+        System.out.println(result);
+
 
 
 
